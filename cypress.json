@@ -1,0 +1,5 @@
+{
+  "baseUrl": "https://gorest.co.in/public-api/",
+  "chromeWebSecurity": false,
+  "watchForFileChanges": false
+}
