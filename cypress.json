@@ -1,5 +1,13 @@
 {
   "baseUrl": "https://gorest.co.in/public-api/",
   "chromeWebSecurity": false,
-  "watchForFileChanges": false
+  "watchForFileChanges": false,
+  "env": {
+    "db": {
+      "host": "localhost",
+      "user": "root",
+      "password": "password",
+      "database": "cypress"
+    }
+  }
 }
