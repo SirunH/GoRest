@@ -14,6 +14,13 @@ Install [Node.js.](https://nodejs.org/en/)
 npm install
  ```
 
+## 2. Data Base Information
+#### You should have installed MySQL DB at your local machine.
+#### For connection to Data Base, use the following command in MySQL command line:
+ ```shell
+ALTER USER 'root'@'localhost' IDENTIFIED BY 'password';
+ ```
+
 ## 2. Run tests using
 #### Run tests in UI mode
  ```shell

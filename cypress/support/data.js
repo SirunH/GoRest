@@ -8,9 +8,6 @@ let name = faker.internet.userName();
 let email = faker.internet.email();
 let gender = helpers.getRandomGender();
 let status = helpers.getRandomStatus();
-let postTitle = faker.lorem.lines(1);
-let postContent = faker.lorem.paragraph()
-
 
 module.exports = {
     token: 'caab1a95912d433aa042414ebb5e92071b4adb2d6f1dc9d74ca184d4e585aedb',
