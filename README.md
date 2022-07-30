@@ -15,7 +15,7 @@ npm install
  ```
 
 ## 2. Data Base Information
-#### You should have installed MySQL DB at your local machine.
+#### You should have installed MySQL DB at your local machine and have created Data Base "Cypress".
 #### For connection to Data Base, use the following command in MySQL command line:
  ```shell
 ALTER USER 'root'@'localhost' IDENTIFIED BY 'password';
