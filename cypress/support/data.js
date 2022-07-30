@@ -14,7 +14,5 @@ module.exports = {
     userName: name,
     userEmail: email,
     userGender: gender,
-    userStatus: status,
-    userPostTitle: postTitle,
-    userPostContent: postContent
+    userStatus: status
 }
